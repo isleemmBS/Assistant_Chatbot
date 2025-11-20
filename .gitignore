@@ -1,0 +1,18 @@
+# Fichiers sensibles
+.env
+credentials.json
+token.json
+*.json
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Base de données
+*.sqlite3
+course_db/
+
+# Autres
+.DS_Store
